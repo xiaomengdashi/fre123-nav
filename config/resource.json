@@ -233,7 +233,6 @@
 			}
 		]
 	},
-
 	"ebook": {
 		"name": "书籍",
 		"is_show": true,
